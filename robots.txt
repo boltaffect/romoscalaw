@@ -1,6 +1,0 @@
-Sitemap: http://romoscalaw.com/sitemap_index.xml
-
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/
